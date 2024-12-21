@@ -1,0 +1,25 @@
+[org/gtk/settings/file-chooser]
+window-position=(477, 87)
+window-size=(1010, 752)
+date-format='regular'
+location-mode='path-bar'
+show-hidden=false
+show-size-column=true
+show-type-column=true
+sidebar-width=170
+sort-column='name'
+sort-directories-first=false
+sort-order='ascending'
+type-format='category'
+
+[org/xfce/mousepad/state/application]
+session=['1;;+file:///data/data/com.termux/files/home/.config/autostart/openbox.desktop']
+
+[org/xfce/mousepad/state/window]
+width=640
+height=480
+maximized=false
+fullscreen=false
+
+[org/gtk/settings/color-chooser]
+selected-color=(true, 0.3843137254901961, 0.62745098039215685, 0.91764705882352937, 1.0)
