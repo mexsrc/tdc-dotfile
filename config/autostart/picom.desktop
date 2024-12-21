@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=picom
+Comment=An X compositor
+Exec=picom -b --backend glx --config /data/data/com.termux/files/usr/etc/picom/config.conf
+RunHook=0
+
