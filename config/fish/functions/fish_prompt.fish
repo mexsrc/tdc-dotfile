@@ -1,1 +1,0 @@
-/data/data/com.termux/files/usr/share/omf/themes/emoji-powerline/fish_prompt.fish
